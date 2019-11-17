@@ -3,5 +3,6 @@ vscode 快捷键
 1. comd + h : 添加文件头信息
 2. options + 上/下： 移动上下文件
 3. shift + 上/下：鼠标选中当前文件行
-4. comd + 上/下/左/右：快速切换鼠标到行头行尾
-5. 
+4. comd + 上/下/左/右：快速切换鼠标到行头行尾/单次头部尾部
+5. comd + options + 左右： 切换vscode 的tab
+6. TODO: FIXME:
