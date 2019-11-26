@@ -31,6 +31,8 @@ print('===')
 # 一.字符串方法 - 3.特殊符号 \t: 制表符 \n:换行符
 print('\twu')
 print('\nwu\t\twu')
+str_with_space = '\n\twuyanbin'
+print(str_with_space.strip())
 
 print('===')
 # 一.字符串方法 - 4.去除字符串空白
